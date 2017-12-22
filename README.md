@@ -20,3 +20,7 @@ usage：arp_spoof.py ip1 ip2
 ## syn_scan.py  
 syn扫描
 输入主机名，起始端口，结束端口进行扫描
+
+## firewalking.py
+防火墙开放端口扫描
+主机名，ttl值，起始端口，结束端口
