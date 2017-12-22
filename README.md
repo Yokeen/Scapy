@@ -16,3 +16,7 @@ usage：arp_spoof.py ip1 ip2
 
 ## arp_scan.py
 传入一个网段的前缀【网络地址】，例如192.168.1，扫描存在的ip与对应的MAC地址
+
+## syn_scan.py  
+syn扫描
+输入主机名，起始端口，结束端口进行扫描
